@@ -30,8 +30,9 @@ This repository is structured as follows:
    
     
 
--   `git clone https://github.com/your-username/vector-search-snowflake.git
-    cd vector-search-snowflake` 
+-   `git clone https://github.com/dhnanjay/Vector_Search_in_Snowflake.git`
+-   
+    `cd vector-search-snowflake` 
     
 -   **Install Dependencies**: Install the required Python libraries using the `requirements.txt` file.
    

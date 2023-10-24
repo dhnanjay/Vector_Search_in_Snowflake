@@ -16,28 +16,24 @@ Repository Structure
 This repository is structured as follows:
 
     vector_search_snowflake.ipynb: Jupyter notebook containing the code and detailed explanations for each step.
+    
     requirements.txt: A text file listing all the required Python libraries.
+    
     data/: Directory containing sample data files used in this demonstration.
     README.md: This file, providing an overview and instructions for using this repository.
 
 Getting Started
 
-    Clone the Repository: Clone this repository to your local machine to get started.
+ 
 
-    bash
-
-git clone https://github.com/your-username/vector-search-snowflake.git
-cd vector-search-snowflake
+    git clone https://github.com/your-username/vector-search-snowflake.git
+    cd vector-search-snowflake
 
 Install Dependencies: Install the required Python libraries using the requirements.txt file.
 
     pip install -r requirements.txt
 
-    Snowflake Setup: Log in to your Snowflake account and set up the required tables and data as outlined in the vector_search_snowflake.ipynb notebook.
-
-    Configure Credentials: Open the vector_search_snowflake.ipynb notebook and fill in your Snowflake credentials where required.
-
-    Run the Notebook: Execute the Jupyter notebook from start to finish, ensuring to read the comments and markdown cells for a better understanding of each step.
+    
 
 Contributing
 

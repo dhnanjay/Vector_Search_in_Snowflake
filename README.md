@@ -2,6 +2,8 @@
 
 Welcome to this repository where we explore the intriguing world of vector search within Snowflake, a popular cloud-based data warehousing service. This guide provides a step-by-step walkthrough, complete with code snippets and explanations, to demonstrate how Snowflake can be utilized as a vector database, extending its capabilities beyond traditional data warehousing.
 
+Here is blog entry on medium : https://dhnanjay.medium.com/semantic-search-in-snowflake-a-journey-from-sql-to-vectors-5c5660a8c8b8
+
 ## Prerequisites
 
 Before diving into the code and explanations, please ensure you have the following prerequisites covered:
